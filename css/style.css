@@ -1,0 +1,10 @@
+p {
+	color: yellowgreen;
+}
+
+div p {
+	color: red;
+}
+
+
+
